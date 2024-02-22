@@ -1,0 +1,18 @@
+Java Strings:
+------------
+
+-> String is a collection/sequence of characters
+-> String is predefined class from 'java.lang' package
+-> String is a immutable class, because the class declared with final keyword
+   when we create string object their object value cannot modifiable/changeable.
+   
+   Note: if we are trying to modify/add new string to existing string object, 
+         then it will create the new string object.
+         
+-> in java if we needed class to change the string object value, 
+   then the better option is StringBuffer/String Builder.
+   
+=> in java we can create String objects in two ways,
+
+1. using 'new' keyword
+2. by literal way.
